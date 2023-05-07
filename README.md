@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **During a coding challenge, I was stumped by a complex algorithm problem. Instead of giving up, I took a step back, went for a walk, and allowed my mind to wander. Surprisingly, the solution struck me while I was gazing at a beautiful sunset. Sometimes, the best way to solve a problem is to take a break and let your subconscious do the work!**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"></h3>
 <p align="left">
 </p>
 
